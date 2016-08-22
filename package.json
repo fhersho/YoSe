@@ -1,0 +1,22 @@
+{
+  "name": "yose",
+  "version": "1.0.0",
+  "description": "Esta aplicación es para implementar los restFull de YoSe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fhersho/"
+  },
+  "author": "Fernando Padilla Velez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "tap-spec": "^4.1.1",
+    "tape": "^4.6.0"
+  }
+}
